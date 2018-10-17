@@ -1,0 +1,15 @@
+\begin{sphinxtheindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter M
+  \item mean\_val() (in module test\_functions), \hyperpage{1}
+
+  \indexspace
+  \bigletter S
+  \item square\_root() (in module test\_functions), \hyperpage{1}
+
+  \indexspace
+  \bigletter T
+  \item test\_functions (module), \hyperpage{1}
+
+\end{sphinxtheindex}
